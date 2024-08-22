@@ -1,0 +1,3 @@
+# 🛠️ Data Service Technical Design Document
+
+The Java-built data service, leveraging the Vert.x framework alongside MongoDB for schema-less data reliably gathers data from diverse sources. It employs the Vert.x JWT Auth library for secure communication, ensuring only authorized entities interacts with it. Furthermore, a Rabbit MQ message broker is utilized to efficiently and reliably deliver data points as messages to other services. For metrics exposure, the Vert.x Prometheus library is employed. This setup addresses architectural requirements by enabling metrics collection, which are then visualized through Grafana for monitoring purposes.

@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🛠️ Data Service Technical Design Document](README.md)
+  * [🏫 Architecture Overview](data-service-technical-design-document/architecture-overview.md)
+  * [🈁 Data Sources](data-service-technical-design-document/data-sources/README.md)
+    * [💲 Binance](data-service-technical-design-document/data-sources/binance.md)
+  * [🗜️ Component Documentation](data-service-technical-design-document/component-documentation.md)
+  * [📖 Code Documentation](data-service-technical-design-document/code-documentation.md)
+  * [🏗️ API Documentation](data-service-technical-design-document/api-documentation/README.md)
+    * [PUT /v1/subscribe](data-service-technical-design-document/api-documentation/put-v1-subscribe.md)
+    * [DELETE /v1/subscribe](data-service-technical-design-document/api-documentation/delete-v1-subscribe.md)
+    * [GET /metrics](data-service-technical-design-document/api-documentation/get-metrics.md)
+  * [🖥️ Monitoring](data-service-technical-design-document/monitoring/README.md)
+    * [⏩ Data Consistency, Availability, Fault Tolerance](data-service-technical-design-document/monitoring/data-consistency-availability-fault-tolerance.md)
+    * [🐇 Rabbit MQ](data-service-technical-design-document/monitoring/rabbit-mq.md)
+  * [⚙️ Configuration Guide](data-service-technical-design-document/configuration-guide.md)
