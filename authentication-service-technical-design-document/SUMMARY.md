@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🛠️ Authentication Service Technical Documentation](README.md)
+  * [🏫 Architecture Overview](authentication-service-technical-documentation/architecture-overview.md)
+  * [🈁 Data Flow Diagram](authentication-service-technical-documentation/data-flow-diagram.md)
+  * [🗜️ Component Documentation](authentication-service-technical-documentation/component-documentation.md)
+  * [📖 Code Documentation](authentication-service-technical-documentation/code-documentation.md)
+  * [🏗️ API Documentation](authentication-service-technical-documentation/api-documentation/README.md)
+    * [GET /v1/account/:address/nonce](authentication-service-technical-documentation/api-documentation/get-v1-account-address-nonce.md)
+    * [PUT /v1/account/:address/verifySignature](authentication-service-technical-documentation/api-documentation/put-v1-account-address-verifysignature.md)
+    * [GET /metrics](authentication-service-technical-documentation/api-documentation/get-metrics.md)
+    * [PUT /metrics](authentication-service-technical-documentation/api-documentation/put-metrics.md)
+  * [🖥️ Monitoring](authentication-service-technical-documentation/monitoring/README.md)
+    * [⬆️ Uptime](authentication-service-technical-documentation/monitoring/uptime.md)
+    * [🔁 Response Times](authentication-service-technical-documentation/monitoring/response-times.md)
+  * [⚙️ Configuration Guide](authentication-service-technical-documentation/configuration-guide.md)
