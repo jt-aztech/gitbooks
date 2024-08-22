@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🛠️ Data Processor Technical Design Document](README.md)
+  * [🏫 Architecture Overview](data-processor-technical-design-document/architecture-overview.md)
+  * [🎼 Algorithms](data-processor-technical-design-document/algorithms/README.md)
+    * [🖇️ Moving Average - Average True Range](data-processor-technical-design-document/algorithms/moving-average-average-true-range.md)
+    * [💪 Relative Strength Index](data-processor-technical-design-document/algorithms/relative-strength-index.md)
+    * [🫥 MACD](data-processor-technical-design-document/algorithms/macd.md)
+  * [🗜️ Component Documentation](data-processor-technical-design-document/component-documentation.md)
+  * [📖 Code Documentation](data-processor-technical-design-document/code-documentation.md)
+  * [🏗️ API Documentation](data-processor-technical-design-document/api-documentation/README.md)
+    * [PUT /v1/strategy](data-processor-technical-design-document/api-documentation/put-v1-strategy.md)
+    * [GET /v1/strategy/:id](data-processor-technical-design-document/api-documentation/get-v1-strategy-id.md)
+    * [GET /metrics](data-processor-technical-design-document/api-documentation/get-metrics.md)
+  * [🖥️ Monitoring](data-processor-technical-design-document/monitoring.md)
+  * [⚙️ Configuration Guide](data-processor-technical-design-document/configuration-guide.md)
