@@ -18,4 +18,5 @@ RABBITMQ_USERNAME: The username to authenticate with RabbitMQ.
 RABBITMQ_PASSWORD: The password to authenticate with RabbitMQ.
 RABBITMQ_QUEUE_NAME: The queue to which to publish the messages.
 FRONTEND_PROM_METRIC_NAME: The name of the metric used for frontend performance monitoring.
+KLINES_TO_RETURN: the number of klines (candlesticks) to return in the data processor application.
 ```
