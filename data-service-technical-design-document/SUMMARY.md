@@ -4,6 +4,7 @@
   * [🏫 Architecture Overview](data-service-technical-design-document/architecture-overview.md)
   * [🈁 Data Sources](data-service-technical-design-document/data-sources/README.md)
     * [💲 Binance](data-service-technical-design-document/data-sources/binance.md)
+    * [〽️ Alternative Me](data-service-technical-design-document/data-sources/alternative-me.md)
   * [🗜️ Component Documentation](data-service-technical-design-document/component-documentation.md)
   * [📖 Code Documentation](data-service-technical-design-document/code-documentation.md)
   * [🏗️ API Documentation](data-service-technical-design-document/api-documentation/README.md)
