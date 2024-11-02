@@ -6,6 +6,8 @@
     * [🖇️ Moving Average - Average True Range](data-processor-architecture-document/algorithms/moving-average-average-true-range.md)
     * [💪 Relative Strength Index](data-processor-architecture-document/algorithms/relative-strength-index.md)
     * [🫥 MACD](data-processor-architecture-document/algorithms/macd.md)
+    * [😱 FNG](data-processor-architecture-document/algorithms/fng.md)
+    * [🤹 Puell Multiple](data-processor-architecture-document/algorithms/puell-multiple.md)
   * [🤝 Service Level Objectives (SLOs)](data-processor-architecture-document/service-level-objectives-slos.md)
   * [💻 Technology Stack](data-processor-architecture-document/technology-stack.md)
   * [🏬 Deployment Considerations](data-processor-architecture-document/deployment-considerations.md)

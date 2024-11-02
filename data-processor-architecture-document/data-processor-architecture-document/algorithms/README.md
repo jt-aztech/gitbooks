@@ -16,3 +16,4 @@ By allowing any number of algorithms and combinations, the Data Processor Servic
 1. [moving-average-average-true-range.md](moving-average-average-true-range.md "mention")
 2. [relative-strength-index.md](relative-strength-index.md "mention")
 3. [macd.md](macd.md "mention")
+4. [fng.md](fng.md "mention")
