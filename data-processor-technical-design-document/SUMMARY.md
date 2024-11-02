@@ -6,6 +6,8 @@
     * [🖇️ Moving Average - Average True Range](data-processor-technical-design-document/algorithms/moving-average-average-true-range.md)
     * [💪 Relative Strength Index](data-processor-technical-design-document/algorithms/relative-strength-index.md)
     * [🫥 MACD](data-processor-technical-design-document/algorithms/macd.md)
+    * [😱 FNG](data-processor-technical-design-document/algorithms/fng.md)
+    * [🤹 Puell](data-processor-technical-design-document/algorithms/puell.md)
   * [🗜️ Component Documentation](data-processor-technical-design-document/component-documentation.md)
   * [📖 Code Documentation](data-processor-technical-design-document/code-documentation.md)
   * [🏗️ API Documentation](data-processor-technical-design-document/api-documentation/README.md)
