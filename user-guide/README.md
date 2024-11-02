@@ -2,20 +2,20 @@
 
 ### Overview
 
-Welcome to Aztechcorp, your go-to platform for custom indicators to analyze commodity price data.
+User guide for Aztechcorp.io, custom indicators to analyze commodity price data.
 
 #### Getting Started
 
-1. **Authentication with MetaMask**
-   * To begin using Aztechcorp's features, you need to authenticate via MetaMask.
-   * **Important:** You will only need to sign a message to authenticate your identity. **No transactions or fees** will be involved in this process.
-2. **Using the Indicators**
-   * Once authenticated, you will gain access to our powerful custom indicators designed to enhance your commodity price analysis.
+1. **Using the Indicators**
+   1. How to use custom the indicators designed to enhance your commodity price analysis.
+2. **Authentication with MetaMask**
+   1. To gain access to the latest data, you need to authenticate via MetaMask.
+   2. **No transactions or fees** will be requested by this process.
+
+{% content-ref url="user-guide/using-the-application.md" %}
+[using-the-application.md](user-guide/using-the-application.md)
+{% endcontent-ref %}
 
 {% content-ref url="user-guide/authentication-process/" %}
 [authentication-process](user-guide/authentication-process/)
-{% endcontent-ref %}
-
-{% content-ref url="user-guide/using-the-indicator.md" %}
-[using-the-indicator.md](user-guide/using-the-indicator.md)
 {% endcontent-ref %}
